@@ -13,3 +13,6 @@ visdom  0.1.8.9
 torch   1.9.0
 
 Python  3.8.8
+
+## visualization
+![image](https://user-images.githubusercontent.com/96560332/209500400-9af6c0d4-368e-42ef-b91a-61b28cbef9cd.png)
